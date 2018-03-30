@@ -1,2 +1,2 @@
 # Kotlin_Programs
-All my java code will be in Kotlin just for proacticing.
+All basic codes which I learnt to understand Java/C/C++ are all now written in Kotlin.
